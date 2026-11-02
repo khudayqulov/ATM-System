@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# ATM user accounts
+data/
+
+# VS Code settings
+.vscode/
